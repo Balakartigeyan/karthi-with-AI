@@ -34,5 +34,5 @@ Turning industrial data into intelligent, real-world solutions.
 
 📫 Contact
 📧 Email: kartigeyan91@gmail.com
-💼 LinkedIn: Balakartigeyan Anbalagan
+💼 LinkedIn: https://www.linkedin.com/in/balakartigeyan
 ⭐ Always learning. Always building. Always improving.
