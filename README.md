@@ -46,7 +46,7 @@ Turning industrial data into intelligent, real-world solutions.
 
 ## 📫 Contact
 
-- 📧 Email: contact.ing.wissem@gmail.com *(replace with your own)*  
+- 📧 Email: kartigeyan91@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/balakartigeyan-anbalagan-a01857109/  
 
 ---
